@@ -1,0 +1,29 @@
+/* Hämta ut data från tabellerna kunder, ordrar, orderrader och produkter
+
+Beräkna en radsumma i orderrader (antal* prist_st) */
+
+
+
+SELECT kunder.Foretagsnamn,
+
+            ordrar.OrderNr,
+
+    orderrader.Antal,
+
+    produkter.Produktnamn,
+
+    produkter.Pris_ST,
+
+    orderrader.Antal * produkter.Pris_ST AS 'Radsumma'
+
+
+
+FROM kunder
+
+            INNER JOIN ordrar ON kunder.KundNr = ordrar.Kundnr
+
+    INNER JOIN orderrader ON ordrar.OrderNr = orderrader.OrderNr
+
+    INNER JOIN produkter ON produkter.ProduktNr = orderrader.ProduktNr
+
+ORDER BY ordrar.OrderNr

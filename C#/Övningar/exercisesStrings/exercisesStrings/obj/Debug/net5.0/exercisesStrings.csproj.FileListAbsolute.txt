@@ -1,0 +1,15 @@
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\bin\Debug\net5.0\exercisesStrings.exe
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\bin\Debug\net5.0\exercisesStrings.deps.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\bin\Debug\net5.0\exercisesStrings.runtimeconfig.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\bin\Debug\net5.0\exercisesStrings.runtimeconfig.dev.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\bin\Debug\net5.0\exercisesStrings.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\bin\Debug\net5.0\ref\exercisesStrings.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\bin\Debug\net5.0\exercisesStrings.pdb
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\obj\Debug\net5.0\exercisesStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\obj\Debug\net5.0\exercisesStrings.AssemblyInfoInputs.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\obj\Debug\net5.0\exercisesStrings.AssemblyInfo.cs
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\obj\Debug\net5.0\exercisesStrings.csproj.CoreCompileInputs.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\obj\Debug\net5.0\exercisesStrings.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\obj\Debug\net5.0\ref\exercisesStrings.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\obj\Debug\net5.0\exercisesStrings.pdb
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesStrings\exercisesStrings\obj\Debug\net5.0\exercisesStrings.genruntimeconfig.cache

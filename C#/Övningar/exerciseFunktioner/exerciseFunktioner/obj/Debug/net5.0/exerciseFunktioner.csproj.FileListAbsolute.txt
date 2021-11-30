@@ -1,0 +1,16 @@
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\bin\Debug\net5.0\exerciseFunktioner.exe
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\bin\Debug\net5.0\exerciseFunktioner.deps.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\bin\Debug\net5.0\exerciseFunktioner.runtimeconfig.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\bin\Debug\net5.0\exerciseFunktioner.runtimeconfig.dev.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\bin\Debug\net5.0\exerciseFunktioner.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\bin\Debug\net5.0\ref\exerciseFunktioner.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\bin\Debug\net5.0\exerciseFunktioner.pdb
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\obj\Debug\net5.0\exerciseFunktioner.csprojAssemblyReference.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\obj\Debug\net5.0\exerciseFunktioner.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\obj\Debug\net5.0\exerciseFunktioner.AssemblyInfoInputs.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\obj\Debug\net5.0\exerciseFunktioner.AssemblyInfo.cs
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\obj\Debug\net5.0\exerciseFunktioner.csproj.CoreCompileInputs.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\obj\Debug\net5.0\exerciseFunktioner.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\obj\Debug\net5.0\ref\exerciseFunktioner.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\obj\Debug\net5.0\exerciseFunktioner.pdb
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exerciseFunktioner\exerciseFunktioner\obj\Debug\net5.0\exerciseFunktioner.genruntimeconfig.cache

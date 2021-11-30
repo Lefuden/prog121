@@ -1,0 +1,16 @@
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\bin\Debug\net5.0\Exercises.exe
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\bin\Debug\net5.0\Exercises.deps.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\bin\Debug\net5.0\Exercises.runtimeconfig.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\bin\Debug\net5.0\Exercises.runtimeconfig.dev.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\bin\Debug\net5.0\Exercises.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\bin\Debug\net5.0\ref\Exercises.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\bin\Debug\net5.0\Exercises.pdb
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\obj\Debug\net5.0\Exercises.csprojAssemblyReference.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\obj\Debug\net5.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\obj\Debug\net5.0\Exercises.AssemblyInfoInputs.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\obj\Debug\net5.0\Exercises.AssemblyInfo.cs
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\obj\Debug\net5.0\Exercises.csproj.CoreCompileInputs.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\obj\Debug\net5.0\Exercises.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\obj\Debug\net5.0\ref\Exercises.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\obj\Debug\net5.0\Exercises.pdb
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\Exercises\Exercises\obj\Debug\net5.0\Exercises.genruntimeconfig.cache

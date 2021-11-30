@@ -1,0 +1,15 @@
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\bin\Debug\net5.0\TheGame.exe
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\bin\Debug\net5.0\TheGame.deps.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\bin\Debug\net5.0\TheGame.runtimeconfig.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\bin\Debug\net5.0\TheGame.runtimeconfig.dev.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\bin\Debug\net5.0\TheGame.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\bin\Debug\net5.0\ref\TheGame.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\bin\Debug\net5.0\TheGame.pdb
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\obj\Debug\net5.0\TheGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\obj\Debug\net5.0\TheGame.AssemblyInfoInputs.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\obj\Debug\net5.0\TheGame.AssemblyInfo.cs
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\obj\Debug\net5.0\TheGame.csproj.CoreCompileInputs.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\obj\Debug\net5.0\TheGame.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\obj\Debug\net5.0\ref\TheGame.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\obj\Debug\net5.0\TheGame.pdb
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\TheGame\TheGame\obj\Debug\net5.0\TheGame.genruntimeconfig.cache

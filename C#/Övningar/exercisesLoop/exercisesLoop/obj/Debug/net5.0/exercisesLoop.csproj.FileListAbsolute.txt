@@ -1,0 +1,16 @@
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\bin\Debug\net5.0\exercisesLoop.exe
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\bin\Debug\net5.0\exercisesLoop.deps.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\bin\Debug\net5.0\exercisesLoop.runtimeconfig.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\bin\Debug\net5.0\exercisesLoop.runtimeconfig.dev.json
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\bin\Debug\net5.0\exercisesLoop.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\bin\Debug\net5.0\ref\exercisesLoop.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\bin\Debug\net5.0\exercisesLoop.pdb
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\obj\Debug\net5.0\exercisesLoop.csprojAssemblyReference.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\obj\Debug\net5.0\exercisesLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\obj\Debug\net5.0\exercisesLoop.AssemblyInfoInputs.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\obj\Debug\net5.0\exercisesLoop.AssemblyInfo.cs
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\obj\Debug\net5.0\exercisesLoop.csproj.CoreCompileInputs.cache
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\obj\Debug\net5.0\exercisesLoop.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\obj\Debug\net5.0\ref\exercisesLoop.dll
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\obj\Debug\net5.0\exercisesLoop.pdb
+D:\[Download]\prog121\OneDrive - PROG121\C#\Övningar\exercisesLoop\exercisesLoop\obj\Debug\net5.0\exercisesLoop.genruntimeconfig.cache

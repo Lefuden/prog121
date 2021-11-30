@@ -1,0 +1,335 @@
+﻿Constellation;Hemisphere;Planets_in_Const;Star;Distance_LY;Spectral_Class;Colour;Temperature
+Unknown;N;9;Luyten 726-8 A;8.7;O;Blue white;35000
+Unknown;N;9;Wolf 359;7.6;B;Blue white;21000
+Andromeda;N;0;Alpherats;0;B;Blue white;21000
+Andromeda;N;0;Okänt;0;B;Blue white;21000
+Centaurus;S;0;Hadar (Agena);4.3;B;Blue white;21000
+Centaurus;S;0;Proxima Centauri;4.2;W;Greenish;50000
+Centaurus;S;0;Bernards stjärna;5.9;W;Greenish;50000
+Unknown;N;9;Lalande 21185;8.1;W;Greenish;50000
+Unknown;N;9;Ross 128;10.9;W;Greenish;50000
+Canis Minor;N;0;Procyon B;11.4;W;Greenish;50000
+Aquarius;N;0;Sadalmelik;0;W;Greenish;50000
+Aquarius;N;0;Sadalsuud;0;W;Greenish;50000
+Aquarius;N;0;Sadachbia;0;W;Greenish;50000
+Aquarius;N;0;Okänt;0;W;Greenish;50000
+Aquarius;N;0;Okänt;0;W;Greenish;50000
+Aquila;S;0;Altair;16.4;W;Greenish;50000
+Aquila;S;0;Alshain;0;W;Greenish;50000
+Aquila;S;0;Tarazed;0;W;Greenish;50000
+Aquila;S;0;Deneb al Okab Borealis;0;W;Greenish;50000
+Aquila;S;0;Eta Aql;0;W;Greenish;50000
+Aquila;S;0;Deneb al Okab Australis;0;W;Greenish;50000
+Ara;S;0;Alpha Ara;0;W;Greenish;50000
+Ara;S;0;Beta Ara;0;W;Greenish;50000
+Aries;N;0;Hamal;0;W;Greenish;50000
+Aries;N;0;Sheratan;0;W;Greenish;50000
+Aries;N;0;Mesarthim;0;W;Greenish;50000
+Aries;N;0;41 Ari;0;W;Greenish;50000
+Auriga;N;0;Capella;45.6;W;Greenish;50000
+Auriga;N;0;Menkalinan;0;W;Greenish;50000
+Auriga;N;0;Elnath;0;W;Greenish;50000
+Auriga;N;0;Almaaz;0;W;Greenish;50000
+Auriga;N;0;Haedus I;0;W;Greenish;50000
+Auriga;N;0;Haedus II;0;W;Greenish;50000
+Auriga;N;0;Theta Aur;0;W;Greenish;50000
+Auriga;N;0;Al Kab;0;W;Greenish;50000
+Bootes;N;0;Arcturus;35.9;W;Greenish;50000
+Bootes;N;0;Nekkar;0;W;Greenish;50000
+Bootes;N;0;Seginus;0;W;Greenish;50000
+Bootes;N;0;Delta Boo;0;W;Greenish;50000
+Bootes;N;0;Izar;0;W;Greenish;50000
+Bootes;N;0;Zeta Boo;0;W;Greenish;50000
+Bootes;N;0;Muphrid;0;W;Greenish;50000
+Bootes;N;0;Asellus Primus;0;W;Greenish;50000
+Bootes;N;0;alkalurops;0;W;Greenish;50000
+Caelum;S;0;Alpha Cae;0;W;Greenish;50000
+Camelopardalis;S;0;Alpha Cam;0;W;Greenish;50000
+Camelopardalis;S;0;Beta Cam;0;W;Greenish;50000
+Cancer;N;0;Acubens;0;W;Greenish;50000
+Cancer;N;0;Al Tarf;0;W;Greenish;50000
+Cancer;N;0;Iota Cnc;0;W;Greenish;50000
+Canes Venatici;N;0;Cor Caroli;0;W;Greenish;50000
+Canes Venatici;N;0;Chara;0;W;Greenish;50000
+Canes Venatici;N;0;La Superba;0;W;Greenish;50000
+Canis Major;N;0;Sirius A;8.7;W;Greenish;50000
+Canis Major;N;0;Mirzam;0;W;Greenish;50000
+Canis Major;N;0;Muliphein;0;W;Greenish;50000
+Canis Major;N;0;Wezen;0;W;Greenish;50000
+Canis Major;N;0;Adhara;0;W;Greenish;50000
+Canis Major;N;0;Aludra;0;W;Greenish;50000
+Canis Major;N;0;Omi-1 CMa;0;W;Greenish;50000
+Canis Major;N;0;Omi-2 CMa;0;W;Greenish;50000
+Canis Major;N;0;Tau CMa;0;W;Greenish;50000
+Canis Minor;N;0;Procyon;0;W;Greenish;50000
+Canis Minor;N;0;Gomeisa;0;W;Greenish;50000
+Capricornus;N;0;Algedi;0;W;Greenish;50000
+Capricornus;N;0;Dabih;0;W;Greenish;50000
+Capricornus;N;0;Nashira;0;W;Greenish;50000
+Capricornus;N;0;Deneb Algedi;0;W;Greenish;50000
+Carina;S;0;Canopus;0;W;Greenish;50000
+Carina;S;0;Avior;0;W;Greenish;50000
+Cassiopeia;N;0;Shedar;0;W;Greenish;50000
+Cassiopeia;N;0;Caph;0;W;Greenish;50000
+Cassiopeia;N;0;Gamma Cas;0;W;Greenish;50000
+Cassiopeia;N;0;Ruchbah;0;W;Greenish;50000
+Cassiopeia;N;0;Segin;0;W;Greenish;50000
+Cassiopeia;N;0;Achird;0;W;Greenish;50000
+Cassiopeia;N;0;Kappa Cas;0;W;Greenish;50000
+Cassiopeia;N;0;Rho Cas;0;W;Greenish;50000
+Cassiopeia;N;0;6 Cas;0;W;Greenish;50000
+Cepheus;N;1;Alderamin;68.5;W;Greenish;50000
+Cepheus;N;1;Alfirk;0;W;Greenish;50000
+Cepheus;N;1;Delta Cep;0;W;Greenish;50000
+Cepheus;N;1;Garnet Star;0;W;Greenish;50000
+Cetus;N;0;Menkar;0;W;Greenish;50000
+Cetus;N;0;Deneb Kaitos;0;W;Greenish;50000
+Cetus;N;0;Kaffaljidhma;0;W;Greenish;50000
+Cetus;N;0;Baten Kaitos;0;W;Greenish;50000
+Cetus;N;0;Mira;0;W;Greenish;50000
+Cetus;N;0;Tau Cet;0;W;Greenish;50000
+Columba;S;0;Phact;0;W;Greenish;50000
+Coma Berenices;S;0;Diadem;0;W;Greenish;50000
+Coma Berenices;S;0;Beta Com;0;W;Greenish;50000
+Corona Australis;S;0;Alfecca Meridiana;0;W;Greenish;50000
+Corona Borealis;N;1;Alphecca (Gemma);0;W;Greenish;50000
+Corona Borealis;N;1;Nusakan;0;W;Greenish;50000
+Corona Borealis;N;1;Theta CrB;0;W;Greenish;50000
+Corvus;S;0;Alchiba;0;W;Greenish;50000
+Corvus;S;0;Kraz;0;W;Greenish;50000
+Corvus;S;0;Gienah Corvi;0;W;Greenish;50000
+Corvus;S;0;Algorab;0;W;Greenish;50000
+Crater;S;0;Alkes;0;W;Greenish;50000
+Crater;S;0;Delta Crt;0;W;Greenish;50000
+Crux;S;0;Acrux;0;W;Greenish;50000
+Crux;S;0;Mimosa;0;W;Greenish;50000
+Crux;S;0;Gacrux;0;W;Greenish;50000
+Crux;S;0;Delta Cru;0;W;Greenish;50000
+Cygnus;N;1;Deneb;1630;W;Greenish;50000
+Cygnus;N;1;Albireo;0;W;Greenish;50000
+Cygnus;N;1;Sadr;0;W;Greenish;50000
+Cygnus;N;1;Delta Cyg;0;W;Greenish;50000
+Cygnus;N;1;Gienah Cygni;0;W;Greenish;50000
+Cygnus;N;1;Omi-1 Cygni;0;W;Greenish;50000
+Cygnus;N;1;Omi-2 Cygni;0;W;Greenish;50000
+Cygnus;N;1;Chi Cygni;0;W;Greenish;50000
+Cygnus;N;1;P Cyg;0;W;Greenish;50000
+Cygnus;N;1;61 Cyg;11.2;W;Greenish;50000
+Delphinus;S;0;Sualocin;0;W;Greenish;50000
+Delphinus;S;0;Rotanev;0;W;Greenish;50000
+Delphinus;S;0;Gamma Del;0;W;Greenish;50000
+Dorado;S;0;Gamma Dor;0;W;Greenish;50000
+Draco;S;1;Thuban;0;W;Greenish;50000
+Draco;S;1;Rastaban;0;W;Greenish;50000
+Draco;S;1;Eltanin;0;W;Greenish;50000
+Draco;S;1;Nodus Secundus;0;W;Greenish;50000
+Draco;S;1;"Al Dhibain ""Prior""";0;W;Greenish;50000
+Draco;S;1;Theta Dra;0;W;Greenish;50000
+Draco;S;1;Kappa Dra;0;W;Greenish;50000
+Draco;S;1;Giausar;0;W;Greenish;50000
+Draco;S;1;Kuma;0;W;Greenish;50000
+Equuleus;S;0;Kitalpha;0;W;Greenish;50000
+Equuleus;S;0;Delta Equ;0;W;Greenish;50000
+Eridanus;S;1;Achernar;114.1;W;Greenish;50000
+Eridanus;S;1;Cursa;0;W;Greenish;50000
+Eridanus;S;1;Zaurak;0;W;Greenish;50000
+Eridanus;S;1;Rana;0;W;Greenish;50000
+Eridanus;S;1;Azha;0;W;Greenish;50000
+Eridanus;S;1;Acamar;0;W;Greenish;50000
+Eridanus;S;1;Beid;0;W;Greenish;50000
+Eridanus;S;1;Keid;0;W;Greenish;50000
+Fornax;S;0;Alpha For;0;W;Greenish;50000
+Gemini;N;0;Castor;0;W;Greenish;50000
+Gemini;N;0;Pollux;34.8;W;Greenish;50000
+Gemini;N;0;Alhena;0;W;Greenish;50000
+Gemini;N;0;Wasat;0;W;Greenish;50000
+Gemini;N;0;Mebsuta;0;W;Greenish;50000
+Gemini;N;0;Mekbuda;0;W;Greenish;50000
+Gemini;N;0;Propus;0;W;Greenish;50000
+Gemini;N;0;Tejat;0;W;Greenish;50000
+Grus;S;0;Al Nair;0;W;Greenish;50000
+Grus;S;0;Beta Gru;0;W;Greenish;50000
+Grus;S;0;Delta-1 Gru;0;W;Greenish;50000
+Grus;S;0;Delta-2 Gru;0;W;Greenish;50000
+Hercules;N;1;Rasalgethi;0;W;Greenish;50000
+Hercules;N;1;Kornephoros;0;W;Greenish;50000
+Hercules;N;1;Gamm Her;0;W;Greenish;50000
+Hercules;N;1;Zeta Her;0;W;Greenish;50000
+Hercules;N;1;Iota Her;0;W;Greenish;50000
+Hercules;N;1;Pi Her;0;W;Greenish;50000
+Horologium;S;0;Alpha Hor;0;W;Greenish;50000
+Hydra;N;0;Alphard;0;W;Greenish;50000
+Hydra;N;0;Eps Hya;0;W;Greenish;50000
+Indus;S;0;The Persian;0;W;Greenish;50000
+Lacerta;S;0;Alpha Lac;0;W;Greenish;50000
+Leo;N;0;Regulus;0;W;Greenish;50000
+Leo;N;0;Denebola;0;W;Greenish;50000
+Leo;N;0;Algieba;0;W;Greenish;50000
+Leo;N;0;Zosma;0;W;Greenish;50000
+Leo;N;0;Algenubi;0;W;Greenish;50000
+Leo;N;0;Adhafera;0;W;Greenish;50000
+Leo;N;0;Eta Leo;0;W;Greenish;50000
+Leo;N;0;Rasalas;0;W;Greenish;50000
+Leo Minor;N;0;Praecipua;0;W;Greenish;50000
+Lepus;S;0;Arneb;0;W;Greenish;50000
+Lepus;S;0;Nihal;0;W;Greenish;50000
+Libra;N;1;Zubenelgenubi;0;W;Greenish;50000
+Libra;N;1;Zubeneschamali;0;W;Greenish;50000
+Libra;N;1;Zubenhakrabi;0;W;Greenish;50000
+Lupus;S;0;Kakkab;0;W;Greenish;50000
+Lynx;N;0;Alpha Lyn;0;W;Greenish;50000
+Lynx;N;0;31 Lyn;0;W;Greenish;50000
+Lyra;N;0;Vega;26.4;W;Greenish;50000
+Lyra;N;0;Sheliak;0;W;Greenish;50000
+Lyra;N;0;Sulafat;0;W;Greenish;50000
+Lyra;N;0;Delta-2 Lyr;0;W;Greenish;50000
+Lyra;N;0;Eps Lyr;0;W;Greenish;50000
+Lyra;N;0;Zeta Lyr;0;W;Greenish;50000
+Microscopium;S;0;Gamma Mic;0;W;Greenish;50000
+Monoceros;N;0;Beta Mon;0;W;Greenish;50000
+Ophiuchus;S;0;Rasalhague;0;W;Greenish;50000
+Ophiuchus;S;0;Cebalrai;0;W;Greenish;50000
+Ophiuchus;S;0;Yed Prior;0;W;Greenish;50000
+Ophiuchus;S;0;Yed Posterior;0;W;Greenish;50000
+Ophiuchus;S;0;Zeta Oph;0;W;Greenish;50000
+Ophiuchus;S;0;Sabik;0;W;Greenish;50000
+Ophiuchus;S;0;Theta Oph;0;W;Greenish;50000
+Orion;N;1;Betelgeuse;586;W;Greenish;50000
+Orion;N;1;Rigel;880;W;Greenish;50000
+Orion;N;1;Bellatrix;0;W;Greenish;50000
+Orion;N;1;Mintaka;0;W;Greenish;50000
+Orion;N;1;Alnilam;0;W;Greenish;50000
+Orion;N;1;Alnitak;0;W;Greenish;50000
+Orion;N;1;Saif al Jabbar;0;W;Greenish;50000
+Orion;N;1;Na'ir al Saif;0;W;Greenish;50000
+Orion;N;1;Saiph;0;W;Greenish;50000
+Orion;N;1;Meissa;0;W;Greenish;50000
+Orion;N;1;Pi-4 Ori;0;W;Greenish;50000
+Orion;N;1;Sigma Ori;0;W;Greenish;50000
+Pavo;S;0;Peacock;0;W;Greenish;50000
+Pegasus;N;1;Markab;0;W;Greenish;50000
+Pegasus;N;1;Scheat;0;W;Greenish;50000
+Pegasus;N;1;Algenib;0;W;Greenish;50000
+Pegasus;N;1;alpheratz;0;W;Greenish;50000
+Pegasus;N;1;Enif;0;W;Greenish;50000
+Pegasus;N;1;Matar;0;W;Greenish;50000
+Perseus;N;0;Mirfak;0;W;Greenish;50000
+Perseus;N;0;Algol;0;W;Greenish;50000
+Perseus;N;0;Gamma Per;0;W;Greenish;50000
+Perseus;N;0;Delta Per;0;W;Greenish;50000
+Perseus;N;0;Eps Per;0;W;Greenish;50000
+Perseus;N;0;Zeta Per;0;W;Greenish;50000
+Perseus;N;0;Menkib;0;W;Greenish;50000
+Perseus;N;0;Gorgonea Tertia;0;W;Greenish;50000
+Phoenix;S;0;Ankaa;0;W;Greenish;50000
+Phoenix;S;0;Zeta Phe;0;W;Greenish;50000
+Pisces;N;1;Alrescha;0;W;Greenish;50000
+Pisces;N;1;Gamma Psc;0;W;Greenish;50000
+Pisces;N;1;Kullat Nunu;0;W;Greenish;50000
+Pisces;N;1;Omega Psc;0;W;Greenish;50000
+Pisces;N;1;19 Psc;0;W;Greenish;50000
+Piscis Austrinus;S;0;Fomalhaut;22.8;W;Greenish;50000
+Puppis;S;0;Naos;0;W;Greenish;50000
+Puppis;S;0;Asmidiske;0;W;Greenish;50000
+Puppis;S;0;Pi Pup;0;W;Greenish;50000
+Puppis;S;0;Tureis;0;W;Greenish;50000
+Pyxis;S;0;Alpha Pyx;0;W;Greenish;50000
+Sagitta;S;0;Sham;0;W;Greenish;50000
+Sagitta;S;0;Gamma Sge;0;W;Greenish;50000
+Sagittarius;N;0;Rukbat;0;W;Greenish;50000
+Sagittarius;N;0;Arkab Prior;0;W;Greenish;50000
+Sagittarius;N;0;Alnasl;0;W;Greenish;50000
+Sagittarius;N;0;Kaus Media;0;W;Greenish;50000
+Sagittarius;N;0;Kaus Australis;0;W;Greenish;50000
+Sagittarius;N;0;Ascella;0;W;Greenish;50000
+Sagittarius;N;0;Eta Sgr;0;W;Greenish;50000
+Sagittarius;N;0;Kaus Borealis;0;W;Greenish;50000
+Sagittarius;N;0;Polis;0;W;Greenish;50000
+Sagittarius;N;0;Albaldah;0;W;Greenish;50000
+Sagittarius;N;0;Nunki;0;W;Greenish;50000
+Sagittarius;N;0;W Sagitarii;0;W;Greenish;50000
+Scorpius;N;0;Antares;423;W;Greenish;50000
+Scorpius;N;0;Graffias (Acrab);0;W;Greenish;50000
+Scorpius;N;0;Zubenhakrabi;0;W;Greenish;50000
+Scorpius;N;0;Dschubba;0;W;Greenish;50000
+Scorpius;N;0;Zeta-1 Sco;0;W;Greenish;50000
+Scorpius;N;0;Girtab;0;W;Greenish;50000
+Scorpius;N;0;Iota-1 Sco;0;W;Greenish;50000
+Scorpius;N;0;Iota-2 Sco;0;W;Greenish;50000
+Scorpius;N;0;Shaula;0;W;Greenish;50000
+Scorpius;N;0;Jabbah;0;W;Greenish;50000
+Scorpius;N;0;Al Niyat Sig;0;W;Greenish;50000
+Scorpius;N;0;Al Niyat Tau;0;W;Greenish;50000
+Scorpius;N;0;Lesath;0;W;Greenish;50000
+Sculptor;S;0;Alpha Scl;0;W;Greenish;50000
+Scutum;S;0;Alpha Sct;0;W;Greenish;50000
+Scutum;S;0;Delta Sct;0;W;Greenish;50000
+Serpens;N;0;Unukalhai;0;W;Greenish;50000
+Serpens;N;0;Gamma Ser;0;W;Greenish;50000
+Serpens;N;0;Delta Ser;0;W;Greenish;50000
+Serpens;N;0;Alya;0;W;Greenish;50000
+Serpens;N;0;Xi Ser;0;W;Greenish;50000
+Sextans;S;0;Alpha Sext;0;W;Greenish;50000
+Taurus;N;0;Alebaran;0;W;Greenish;50000
+Taurus;N;0;Elnath;0;W;Greenish;50000
+Taurus;N;0;Hyadum II;0;W;Greenish;50000
+Taurus;N;0;Alcyone;0;W;Greenish;50000
+Taurus;N;0;Ain;0;W;Greenish;50000
+Taurus;N;0;Zeta Tau;0;W;Greenish;50000
+Taurus;N;0;Lambda Tau;0;W;Greenish;50000
+Taurus;N;0;Electra;0;W;Greenish;50000
+Taurus;N;0;Maia;0;W;Greenish;50000
+Taurus;N;0;Merope;0;W;Greenish;50000
+Taurus;N;0;Atlas;0;W;Greenish;50000
+Taurus;N;0;Pleione;0;W;Greenish;50000
+Telescopium;S;0;Alpha Tel;0;W;Greenish;50000
+Triangulum;S;0;Mothallah;0;W;Greenish;50000
+Triangulum;S;0;Beta Tri;0;W;Greenish;50000
+Triangulum;S;0;Gamma Tri;0;W;Greenish;50000
+Triangulum;S;0;Delta Tri;0;W;Greenish;50000
+Ursa Major;N;1;Dubhe;0;W;Greenish;50000
+Ursa Major;N;1;Merak;0;W;Greenish;50000
+Ursa Major;N;1;Phecda;0;W;Greenish;50000
+Ursa Major;N;1;Megrez;0;W;Greenish;50000
+Ursa Major;N;1;Alioth;0;W;Greenish;50000
+Ursa Major;N;1;Mizar;0;W;Greenish;50000
+Ursa Major;N;1;Alkaid;0;W;Greenish;50000
+Ursa Major;N;1;Theta Uma;0;W;Greenish;50000
+Ursa Major;N;1;Talitha;0;W;Greenish;50000
+Ursa Major;N;1;Tania Australis;0;W;Greenish;50000
+Ursa Major;N;1;Muscida;0;W;Greenish;50000
+Ursa Major;N;1;Alcor;0;W;Greenish;50000
+Ursa Minor;N;0;Polaris;0;W;Greenish;50000
+Ursa Minor;N;0;Kochab;0;W;Greenish;50000
+Ursa Minor;N;0;Pherkad;0;W;Greenish;50000
+Ursa Minor;N;0;Yildun;0;W;Greenish;50000
+Ursa Minor;N;0;Epsilon UMi;0;W;Greenish;50000
+Ursa Minor;N;0;Anwar al Farkadain;0;W;Greenish;50000
+Vela;S;0;Regor;0;W;Greenish;50000
+Vela;S;0;Suhail;0;W;Greenish;50000
+Vela;S;0;Mu Vel;0;W;Greenish;50000
+Virgo;N;1;Spica;211.9;W;Greenish;50000
+Virgo;N;1;Porrima;0;W;Greenish;50000
+Virgo;N;1;Awwa;0;W;Greenish;50000
+Virgo;N;1;Vindemiatrix;0;W;Greenish;50000
+Virgo;N;1;Zaniah;0;W;Greenish;50000
+Vulpecula;S;0;Anser;0;W;Greenish;50000
+Crux;S;0;Alfa Crucis;423.8;G;Yellow;6000
+Andromeda;N;0;Okänt;0;G;Yellow;6000
+Andromeda;N;0;Okänt;0;G;Yellow;6000
+Centaurus;S;0;Rigil Kentaurus;4.2;G;Yellow;6000
+Canis Minor;N;0;Procyon A;11.4;K;Yellow orange;4700
+Andromeda;N;0;Almach;0;K;Yellow orange;4700
+Antilia;S;0;Okänt;0;K;Yellow orange;4700
+Centaurus;S;0;Menkent;0;K;Yellow orange;4700
+Unknown;N;9;Ross 154;9.3;F;Yeallow white;7200
+Unknown;N;9;Struve 2398 A;11.5;M;Orange red;3300
+Canis Major;N;0;Sirius B;8.7;M;Orange red;3300
+Crux;S;0;Beta Crucis;260.8;M;Orange red;3300
+Andromeda;N;0;Mirach;0;M;Orange red;3300
+Unknown;N;9;Luyten 789-6;11;R;Red;3000
+Unknown;N;9;Eridane;10.7;R;Red;3000
+Unknown;N;9;Ross 248;10.3;S;Red;2000
+Centaurus;S;0;Beta Centauri;423.8;A;White;10000
+Unknown;N;9;Sun;0;A;White;10000
+Centaurus;S;0;Muhlifain;0;A;White;10000

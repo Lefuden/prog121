@@ -1,0 +1,1 @@
+Restid_år = (Avstånd_Ly * 300000 * 60 * 60 ) / hastighet_km_h
